@@ -17,6 +17,6 @@ Como estudante recém-formado em Análise e Desenvolvimento de Sistemas, estou a
 ## Projetos:
 Alguns dos meu projetos
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Analisando Dados do Airbnb:** https://bit.ly/2L2cMwy
 
 ---
