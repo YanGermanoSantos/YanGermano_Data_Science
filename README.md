@@ -17,6 +17,6 @@ Como estudante recém-formado em Análise e Desenvolvimento de Sistemas, estou a
 ## Projetos:
 Alguns dos meu projetos
 
-* **Analisando Dados do Airbnb:** (bit.ly/3Ynl8Dl)
+* **Analisando Dados do Airbnb:** [Projeto Dados do Airbnb](bit.ly/3Ynl8Dl)
 
 ---
