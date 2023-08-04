@@ -6,7 +6,7 @@
 
 # Yan Germano
 
-Como estudante recém-formado em Análise e Desenvolvimento de Sistemas, estou animado para ingressar no mundo da Ciência de Dados. Com habilidades analíticas, trabalho em equipe e atenção aos detalhes, espero ajudar o mundo através do poder dos dados. Minha formação acadêmica me preparou para enfrentar os desafios da área, e estou determinado a me aprimorar constantemente. Com dedicação, espero contribuir positivamente para a sociedade, aplicando a Ciência de Dados em projetos significativos.
+Como estudante recém-formado em Análise e Desenvolvimento de Sistemas, estou animado para ingressar no mundo da Ciência de Dados. Com habilidades analíticas, espero ajudar o mundo através do poder dos dados. Minha formação acadêmica me preparou para enfrentar os desafios da área, e estou determinado a estar evoluindo constantemente. Com dedicação, espero contribuir positivamente para a sociedade, aplicando a Ciência de Dados em projetos significativos.
 
 **Background in:** Python, Machine Learning
 
