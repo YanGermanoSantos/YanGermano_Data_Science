@@ -17,6 +17,6 @@ Como estudante recém-formado em Análise e Desenvolvimento de Sistemas, estou a
 ## Projetos:
 Alguns dos meu projetos
 
-* **Analisando Dados do Airbnb:** https://github.com/YanGermanoSantos/Yan_Data_Science/blob/94cad3917e212959ad97060094e79827fa2d7c2c/Analisando_os_Dados_do_Airbnb.ipynb
+* **Analisando Dados do Airbnb:** [Analise Airbnb](https://github.com/YanGermanoSantos/Yan_Data_Science/blob/94cad3917e212959ad97060094e79827fa2d7c2c/Analisando_os_Dados_do_Airbnb.ipynb)
 
 ---
